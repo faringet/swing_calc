@@ -1,5 +1,5 @@
 # swing_calc
-Calculator based on JavaFX
+Calculator based on Java Swing
 (JUnit included)
 
 
